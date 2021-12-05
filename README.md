@@ -13,7 +13,7 @@
 ### 2번
 * simple replacements
 * 점수 = 27
-* 키 = :%s/sublime\|emacs/vim/g[Enter]ZZ
+* 키 = :%s/sublime[역슬래쉬]|emacs/vim/g[Enter]ZZ
 
 <img src = "https://user-images.githubusercontent.com/94628536/144740801-8355b4f0-0e72-43ea-a494-d5318eac3e9f.gif" width="40%">
 
