@@ -10,3 +10,7 @@
 
 <img src = "https://user-images.githubusercontent.com/94628536/144740801-8355b4f0-0e72-43ea-a494-d5318eac3e9f.gif" width="40%">
 ---
+
+3번 문제
+
+<img src = "https://user-images.githubusercontent.com/94628536/144740970-d0df4ee8-7081-4e06-98f5-e20af1a9a673.gif" width="40%">
