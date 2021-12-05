@@ -33,7 +33,7 @@
 * 점수 = 59
 * 키 = :%s/y1/abs(y1)/g[Enter]:3s/1/2/g[Enter]:4s/1/3/g[Enter]:5s/1/4/g[Enter]fkrgkrrkrbZZ
 
-<img src = "https://user-images.githubusercontent.com/94628536/144743800-48c89c0e-adc1-43b0-b13b-37bf82bcd9bc.gif" width="40%">
+<img src = "https://user-images.githubusercontent.com/94628536/144747196-adcc055b-3cdb-460c-b6c2-a889d2716247.gif" width="40%">
 
 ---
 
